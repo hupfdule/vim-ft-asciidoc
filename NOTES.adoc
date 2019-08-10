@@ -1,0 +1,24 @@
+Existing asciidoc plugins
+--------------------------
+
+* integrated in vim
+* dahu/vim-asciidoc
+* jjaderberg/vim-ft-asciidoc
+* asciidoc/vim-asciidoc
+* dagwieers/asdiidoc-vim
+* retrohacker/asciidoc.vim
+* mjakl/vim-asciidoc
+* gnperdue/vim-asciidoc
+
+
+
+ dagwiers
+ --------
+   o only syntax
+   +
+   
+
+powerman/asciidoc
+-----------------
+  - only fork of official repo
+  - no additions, lacks behind now

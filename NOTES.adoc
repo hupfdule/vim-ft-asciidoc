@@ -9,8 +9,43 @@ Existing asciidoc plugins
 * retrohacker/asciidoc.vim
 * mjakl/vim-asciidoc
 * gnperdue/vim-asciidoc
+* plasticboy/vim-markdown
+* gabrielelana/vim-markdown
+* tpope/vim-markdown
 
 
+== Supported functionality
+
+Syntax highlighting
+ - ??
+ - ??
+Folding
+Concealing
+Text Objects
+ - Section
+ - Block
+ - Section with subsections
+ - List items?
+Motions
+ - Start of current section (??)
+ - Start of parent section (??)
+ - Prev/Next section ([[,]])
+ - End of Prev/Next section ([],][)
+ - Prev/Next section, same level ([{,]})
+ - End of Prev/Next section, same level ([{,]})
+ - Prev/Next block ([(,]))
+ - End of Prev/Next block ([),]()
+Jumps
+ - Go to Definition (gd)
+ - Back from Definition (Ctrl-T)
+ - Find references (gi?)
+ - Follow anchor (?)
+ - Open URL (gx)
+Snippets
+Custom commands
+ - 
+Additional functionality
+ - Syntax highlighting for code blocks
 
  dagwiers
  --------

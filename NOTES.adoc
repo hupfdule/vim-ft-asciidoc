@@ -43,7 +43,10 @@ Jumps
  - Open URL (gx)
 Snippets
 Custom commands
- - 
+ - Inc/Dec section
+ - Inc/Dec section with subsections
+ - Set section level
+ - Switch between inline and block macro/image, etc.
 Additional functionality
  - Syntax highlighting for code blocks
 
